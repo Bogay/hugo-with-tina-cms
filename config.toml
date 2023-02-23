@@ -1,3 +1,4 @@
 baseURL = 'https://bogay.github.io/hugo-with-tina-cms/'
 languageCode = 'en-us'
 title = 'My Hugo Site Configured with Tina CMS'
+theme = 'ananke'
